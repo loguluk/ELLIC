@@ -1597,3 +1597,16 @@ The current user directory, for saving user-specific settings:
 [2026.03.19-16.22.08:234][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
 
 [2026.03.19-16.22.08:238][  1]Running Python start-up script 'E:/ff/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.356954 secs
+[2026.03.19-16.22.31:234][  4]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 58.905380
+[2026.03.19-16.22.31:235][  4]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2026.03.19-16.22.31:241][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 58.928394
+[2026.03.19-16.22.32:558][  8]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.03.19-16.22.33:222][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 60.584911
+[2026.03.19-16.22.33:224][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -793980976
+[2026.03.19-16.22.33:224][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60.584911, Update Interval: 347.226166
+[2026.03.19-16.22.34:224][ 13]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 10d...dcc Access[Expires: 2026.03.19-18.22.33 Remaining: 7200.64] Refresh[Expires: 2026-09-15T16:22:33.639Z Remaining: 15552000.64] State: Valid
+[2026.03.19-16.22.34:559][ 14]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.03.19-16.22.35:558][ 17]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.03.19-16.22.35:558][ 17]LogFab: Display: User logged in
+[2026.03.19-16.22.35:559][ 17]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.03.19-16.22.36:225][ 19]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-Wp_AuqsD3UWp_O9cTHKUpg-lo9S5YJsS06SjAJ3YMoJ4Q]
