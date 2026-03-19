@@ -1610,3 +1610,4 @@ The current user directory, for saving user-specific settings:
 [2026.03.19-16.22.35:558][ 17]LogFab: Display: User logged in
 [2026.03.19-16.22.35:559][ 17]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2026.03.19-16.22.36:225][ 19]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-Wp_AuqsD3UWp_O9cTHKUpg-lo9S5YJsS06SjAJ3YMoJ4Q]
+[2026.03.19-16.23.15:864][137]LogDerivedDataCache: C:/Users/loguluk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.536 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7345 files in 8942 folders with total size 529 MiB.
